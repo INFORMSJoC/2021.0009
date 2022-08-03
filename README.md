@@ -1,13 +1,31 @@
+# 2021.0009
+
+[![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
+
+The software and data in this repository are a snapshot of the software and data
+that were used in the research reported on in the paper 
+[Disjunctive Rule Sets](https://doi.org/) 
+by T. Wang and R. Ragodos. 
+
 This is the code for Disjunctive Rule Set, which is a rule-based model for classification.
 
-To cite this software, please cite the paper using the BibTex below
+## Cite
+To cite this software, please cite the [paper](https://doi.org/) using its DOI and the software itself using the following DOI.
 
-@article{DisRL2022,\
-author = {R. Ragodos, T. Wang},\
-publisher = {INFORMS Journal on Computing},\
-title = {Disjunctive Rule Lists},\
-year = {2022},\
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6954927.svg)](https://doi.org/10.5281/zenodo.6954927)
+
+Below is the BibTex for citing this version of the code.
+
+```
+@article{DisRL2022,
+author = {R. Ragodos, T. Wang},
+publisher = {INFORMS Journal on Computing},
+title = {Disjunctive Rule Lists},
+year = {2022},
+doi = {10.5281/zenodo.6954927},
+note = {https://github.com/INFORMSJoC/2021.0009}
 }
+```
 
 
 
