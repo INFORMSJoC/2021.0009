@@ -18,7 +18,7 @@ Below is the BibTex for citing this version of the code.
 
 ```
 @article{DisRL2022,
-author = {R. Ragodos, T. Wang},
+author = {R. Ragodos and T. Wang},
 publisher = {INFORMS Journal on Computing},
 title = {Disjunctive Rule Lists},
 year = {2022},
