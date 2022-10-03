@@ -4,7 +4,7 @@
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
-[Disjunctive Rule Sets](https://doi.org/) 
+[Disjunctive Rule Sets](https://doi.org/10.1287/ijoc.2022.1242) 
 by T. Wang and R. Ragodos. 
 
 This is the code for Disjunctive Rule Set, which is a rule-based model for classification.
