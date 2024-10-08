@@ -10,9 +10,7 @@ by T. Wang and R. Ragodos.
 This is the code for Disjunctive Rule Set, which is a rule-based model for classification.
 
 ## Cite
-To cite this software, please cite the [paper](https://doi.org/) using its DOI and the software itself using the following DOI.
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6954927.svg)](https://doi.org/10.5281/zenodo.6954927)
+To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2022.1242) using its DOI and the software itself using the following DOI: [10.1287/ijoc.2022.1242.cd](https://doi.org/10.1287/ijoc.2022.1242.cd)
 
 Below is the BibTex for citing this version of the code.
 
@@ -22,7 +20,7 @@ author = {R. Ragodos and T. Wang},
 publisher = {INFORMS Journal on Computing},
 title = {Disjunctive Rule Lists},
 year = {2022},
-doi = {10.5281/zenodo.6954927},
+doi = {10.1287/ijoc.2022.1242.cd},
 note = {https://github.com/INFORMSJoC/2021.0009}
 }
 ```
